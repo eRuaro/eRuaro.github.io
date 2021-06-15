@@ -5,6 +5,14 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Heart Disease Classification",
+    cardImage: "assets/images/project-page/heart.jpg",
+    description: "Machine learning model that determines whether one has heart disease or not.",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Previewlink: "https://github.com/eRuaro/heart-disease-classification#readme",
+    Githublink: "https://github.com/eRuaro/heart-disease-classification",
+  },
+  {
     title: "Rawro Chat",
     cardImage: "assets/images/project-page/message.jpeg",
     description: "A chatting application made with Flutter.",
