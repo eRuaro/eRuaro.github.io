@@ -5,6 +5,14 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Bulldozer Price Prediction",
+    cardImage: "assets/images/project-page/bulldozer.jpg",
+    description: "Machine learning model that predicts bulldozer price.",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Previewlink: "https://github.com/eRuaro/heart-disease-classification#readme",
+    Githublink: "https://github.com/eRuaro/heart-disease-classification",
+  },
+  {
     title: "Heart Disease Classification",
     cardImage: "assets/images/project-page/heart.jpg",
     description: "Machine learning model that determines whether one has heart disease or not.",
