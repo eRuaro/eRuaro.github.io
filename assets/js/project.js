@@ -5,6 +5,14 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "DOg Breed Classification",
+    cardImage: "assets/images/project-page/labrador.jpg",
+    description: "Deep learning model that classifies dog breeds",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Previewlink: "https://github.com/eRuaro/Dog-Breed-Classifier#readme",
+    Githublink: "https://github.com/eRuaro/Dog-Breed-Classifier",
+  },
+  {
     title: "Bulldozer Price Prediction",
     cardImage: "assets/images/project-page/bulldozer.jpg",
     description: "Machine learning model that predicts bulldozer price.",
