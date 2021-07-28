@@ -17,8 +17,8 @@ const projects = [
     cardImage: "assets/images/project-page/bulldozer.jpg",
     description: "Machine learning model that predicts bulldozer price.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://github.com/eRuaro/heart-disease-classification#readme",
-    Githublink: "https://github.com/eRuaro/heart-disease-classification",
+    Previewlink: "https://github.com/eRuaro/bulldozer-price-regression#readme",
+    Githublink: "https://github.com/eRuaro/bulldozer-price-regression",
   },
   {
     title: "Heart Disease Classification",
