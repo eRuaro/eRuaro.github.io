@@ -5,7 +5,15 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "DOg Breed Classification",
+    title: "Food Image Classification",
+    cardImage: "assets/images/project-page/food.jpg",
+    description: "Deep learning model that classifies food images",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Previewlink: "https://github.com/eRuaro/Food-vision#readme",
+    Githublink: "https://github.com/eRuaro/Food-vision",
+  },
+  {
+    title: "Dog Breed Classification",
     cardImage: "assets/images/project-page/labrador.jpg",
     description: "Deep learning model that classifies dog breeds",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
@@ -35,38 +43,6 @@ const projects = [
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://github.com/eRuaro/chat_rawro#readme",
     Githublink: "https://github.com/eRuaro/chat_rawro",
-  },
-  {
-    title: "Covid Tracker",
-    cardImage: "assets/images/project-page/covid.jpeg",
-    description: "A coronavirus tracking applicated made with Flutter, and Cubit as a State Management Solution",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://youtu.be/f6ljFvWteFU",
-    Githublink: "https://github.com/eRuaro/Flutter-with-Cubit-Covid",
-  },
-  {
-    title: "Solutions to Algorithm Problems",
-    cardImage: "assets/images/project-page/coding.jpeg",
-    description: "A collection of problems solved on Kattis, Leetcode, Codeforces, CSES, and Competitive Programming 3",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://github.com/eRuaro/Algorithmic-Solving#readme",
-    Githublink: "https://github.com/eRuaro/Algorithmic-Solving",
-  },
-  {
-    title: "Tweet Scheduler",
-    cardImage: "assets/images/project-page/twitter.jpeg",
-    description: "A tweet scheduling application made with Ruby on Rails.",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://youtu.be/1z-BPnwWL9k",
-    Githublink: "https://github.com/eRuaro/tweet-scheduler",
-  },
-  {
-    title: "BMI Calculator",
-    cardImage: "assets/images/project-page/bmi.jpeg",
-    description: "A BMI Calculator created with Flutter",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://github.com/eRuaro/bmi_calculator#readme",
-    Githublink: "https://github.com/eRuaro/bmi_calculator",
   },
 ];
 

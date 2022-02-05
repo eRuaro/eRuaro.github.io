@@ -4,18 +4,18 @@
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Software Engineer",
+    cardImage: "assets/images/experience-page/certik.png",
+    place: "CertiK",
+    time: "(January, 2022 - present)",
+    desp: "<li>Applied, and standardized test-driven development and raised test coverage by over 60 percent </li> <li>Led migration of in-app functionalities of a Flutter codebase to make use of the Bloc state management library</li><li>Remodelled project codebase to make use of the KISS, DRY, and Single Responsibility principles</li><li>Streamlined user experience by communicating with user experience, and user interface designers on how to move forward with the product</li><li>Optimized API calls by 70 percent by caching requests and by limiting API requests</li><li>Learned about blockchain development, and developing blockchain-driven applications </li>",
+  },
+  {
     title: "Software Engineer Intern",
     cardImage: "assets/images/experience-page/certik.png",
     place: "CertiK",
-    time: "(October, 2021 - present)",
-    desp: "<li>Worked on the Chain BU team at CertiK, particularly in blockchain technologies.</li> <li>Led the development of features for a NFT trading app written in Flutter.</li> <li>Adopted test driven design and mentored others on how to do so as well.</li> <li> Used Golang in developing an SDK used for auditing cryptocurrencies to determine if they are cyber-secured. </li>",
-  },
-  {
-    title: "Machine Learning Engineer (Volunteer)",
-    cardImage: "assets/images/experience-page/omdena.png",
-    place: "Omdena - Philippine Chapter",
-    time: "(May - Aug, 2021)",
-    desp: "<li>Worked with the Philippine chapter of Omdena in determining potential sites for solar-panel power plants.</li><li> Led the deployment of the web-application using NextJs and Streamlit (Python).</li><li> Conducted data visualization deployment using Python and Streamlit in order to showcase our findings to the web.</li>",
+    time: "(October, 2021 - January, 2022)",
+    desp: "<li>Implemented in app features, UX/UI design, and applied test-driven development using Flutter</li> <li>Designed user experience and user interface with Figma</li> <li>Initiated test-driven development on project codebase and implemented responsive design</li> <li>Simplified onboarding process for new hires by rewriting and consolidating team documentation to a centralized resource</li>",
   },
 ];
 

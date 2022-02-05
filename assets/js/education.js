@@ -5,26 +5,6 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "App Brewery - Flutter Development Bootcamp",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/flutter-bootcamp-with-dart/",
-  },
-  {
-    title: "Academind - Flutter & Dart - The Complete Guide",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/",
-  },
-  {
-    title: "Zero to Mastery - Data Science Bootcamp",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/",
-  },
-  {
-    title: "Zero to Mastery - Data Structures and Algorithms",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/",
-  },
-  {
     title: "Accelerated Computer Science Fundamentals Specialization",
     cardImage: "assets/images/education-page/coursera1.png",
     moocLink: "https://www.coursera.org/specializations/cs-fundamentals?",
@@ -78,11 +58,6 @@ const moocscards = [
     title: "Learning How to Learn",
     cardImage: "assets/images/education-page/coursera1.png",
     moocLink: "https://www.coursera.org/learn/learning-how-to-learn",
-  },
-  {
-    title: "Zero to Mastery - Learning to Learn",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/learning-to-learn-efficient-learning-zero-to-mastery/",
   },
 ];
 
