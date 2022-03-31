@@ -5,12 +5,20 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Food Image Classification",
+    title: "Food Image Classification Frontend",
+    cardImage: "assets/images/project-page/food-2.jpg",
+    description: "Deep learning model that classifies food images",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Previewlink: "https://food-vision-ruaro.herokuapp.com/",
+    Githublink: "https://github.com/eRuaro/food-vision-frontend",
+  },
+  {
+    title: "Food Image Classification Backend",
     cardImage: "assets/images/project-page/food.jpg",
     description: "Deep learning model that classifies food images",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://github.com/eRuaro/Food-vision#readme",
-    Githublink: "https://github.com/eRuaro/Food-vision",
+    Previewlink: "https://github.com/eRuaro/food-vision-backend#readme",
+    Githublink: "https://github.com/eRuaro/food-vision-backend",
   },
   {
     title: "Dog Breed Classification",
