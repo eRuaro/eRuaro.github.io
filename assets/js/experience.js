@@ -8,7 +8,7 @@ const exp = [
     cardImage: "assets/images/experience-page/certik.png",
     place: "CertiK",
     time: "(January, 2022 - present)",
-    desp: "<li>Applied, and standardized test-driven development and raised test coverage by over 60 percent </li> <li>Led migration of in-app functionalities of a Flutter codebase to make use of the Bloc state management library</li><li>Remodelled project codebase to make use of the KISS, DRY, and Single Responsibility principles</li><li>Streamlined user experience by communicating with user experience, and user interface designers on how to move forward with the product</li><li>Optimized API calls by 70 percent by caching requests and by limiting API requests</li>",
+    desp: "<li>Applied, and standardized test-driven development and raised test coverage by over 60 percent </li> <li>Led migration of in-app functionalities of a Flutter codebase to make use of the Bloc state management library</li><li>Remodelled project codebase to make use of the KISS, DRY, and Single Responsibility principles</li><li>Streamlined user experience by communicating with user experience, and user interface designers on how to move forward with the product</li><li>Optimized API calls by 70 percent by caching requests and by limiting API requests</li><li>Developed features for a secure blockchain infrastructure such as signing, and broadcasting transactions using Golang</li><li>Initiated making use of test-driven-development when developing new features in Golang</li>",
   },
   {
     title: "Software Engineer Intern",
