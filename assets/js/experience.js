@@ -5,10 +5,17 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Software Engineer",
+    cardImage: "assets/images/experience-page/angkas.jpg",
+    place: "Angkas",
+    time: "(August 2022 - Present)",
+    desp: "<li>Led development of different proof-of-concept applications for a revamped Angkas mobile app using Flutter.</li><li>Researched on different algorithms for weighted bipartite matching in graphs.</li><li>Developed benchmarking procedures for showcasing algorithms researched.</li>",
+  },
+  {
+    title: "Software Engineer",
     cardImage: "assets/images/experience-page/certik.png",
     place: "CertiK",
-    time: "(January, 2022 - present)",
-    desp: "<li>Applied, and standardized test-driven development and raised test coverage by over 60 percent </li> <li>Led migration of in-app functionalities of a Flutter codebase to make use of the Bloc state management library</li><li>Remodelled project codebase to make use of the KISS, DRY, and Single Responsibility principles</li><li>Streamlined user experience by communicating with user experience, and user interface designers on how to move forward with the product</li><li>Optimized API calls by 70 percent by caching requests and by limiting API requests</li><li>Developed features for a secure blockchain infrastructure such as signing, and broadcasting transactions using Golang</li><li>Initiated making use of test-driven-development when developing new features in Golang</li>",
+    time: "(January, 2022 - July 2022)",
+    desp: "<li>Applied, and standardized test-driven development and raised test coverage by over 60 percent </li> <li>Led migration of in-app functionalities of a Flutter codebase to make use of the Bloc state management library</li><li>Remodelled project codebase to make use of the KISS, DRY, and Single Responsibility principles</li><li>Streamlined user experience by communicating with user experience, and user interface designers on how to move forward with the product</li><li>Optimized API calls by 70 percent by caching requests and by limiting API requests</li><li>Developed features for a secure blockchain infrastructure such as signing, and broadcasting transactions using Golang</li><li>Initiated making use of test-driven-development when developing new features in Golang</li><li>Wrote software upgrade proposals, and implemented said upgrades by programming upgrade handlers</li>",
   },
   {
     title: "Software Engineer Intern",
